@@ -11,3 +11,7 @@ int sensorMin = 1023;        // minimum sensor value
 int sensorMax = 0;           // maximum sensor value
 
 void setup(){
+  
+}
+
+Michael Weiss
